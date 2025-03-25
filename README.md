@@ -2,7 +2,7 @@
 
 Welcome to the Langchain ! Use Langchain to create your own AI agents, building from basic concepts to advanced techniques.
 
-## Course Outline
+## Outline
 
 1. **Setup Environment**
 2. **Chat Models**
